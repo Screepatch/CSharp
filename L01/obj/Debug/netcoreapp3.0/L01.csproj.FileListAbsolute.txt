@@ -1,0 +1,11 @@
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.exe
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.deps.json
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.runtimeconfig.json
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.runtimeconfig.dev.json
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.dll
+D:\_projects\CSharp\L01\bin\Debug\netcoreapp3.0\L01.pdb
+D:\_projects\CSharp\L01\obj\Debug\netcoreapp3.0\L01.csprojAssemblyReference.cache
+D:\_projects\CSharp\L01\obj\Debug\netcoreapp3.0\L01.AssemblyInfoInputs.cache
+D:\_projects\CSharp\L01\obj\Debug\netcoreapp3.0\L01.AssemblyInfo.cs
+D:\_projects\CSharp\L01\obj\Debug\netcoreapp3.0\L01.dll
+D:\_projects\CSharp\L01\obj\Debug\netcoreapp3.0\L01.pdb
