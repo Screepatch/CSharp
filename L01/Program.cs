@@ -6,6 +6,7 @@ namespace L01
     {
         static void Main(string[] args)
         {
+            #region Boolean
             //bool r1 = 123 < 456;
             //bool r2 = "mama" != "papa";
 
@@ -24,6 +25,7 @@ namespace L01
             || Укороченное ИЛИ
             ! НЕ
             */
+
             Console.WriteLine("Конъюнкция истина только когда оба истина");
             Console.WriteLine($"true && true = {true && true}");
             Console.WriteLine($"true && false = {true && false}");
@@ -41,10 +43,10 @@ namespace L01
             Console.WriteLine($"true ^ false = {true ^ false}");
             Console.WriteLine($"false ^ true = {false ^ true}");
             Console.WriteLine($"false ^ false = {false ^ false}\n");
+            int a = Convert.ToInt32(Console.ReadLine());
 
-
-
-
+            float numb = 123.456789f;
+            #endregion
 
             #region Primer 02
             //Console.Write("Enter number: ");
@@ -57,8 +59,6 @@ namespace L01
 
             //Console.WriteLine(result);
             #endregion
-
-
 
             #region  Primer 01
             //var name1 = "Sergey";
